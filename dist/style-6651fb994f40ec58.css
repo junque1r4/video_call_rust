@@ -1,0 +1,14 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.consumer {
+    background-color: #f5f5f5;
+    padding: 10px;
+}
+
+.producer {
+    background-color: blueviolet;
+    padding: 10px;
+}
